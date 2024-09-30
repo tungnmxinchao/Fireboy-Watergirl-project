@@ -1,0 +1,55 @@
+# Thư mục chứa build
+[Bb]uilds/
+[Bb]uild/
+
+# Thư mục chứa tệp tin tạm thời và cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]ackup/
+[Pp]rojectSettings/EditorBuildSettings.asset
+[Pp]rojectSettings/EditorSettings.asset
+
+# Thư mục chứa logs
+[Ll]ogs/
+
+# Thư mục chứa tệp tin của Unity Collaborate
+[Uu]serSettings/
+
+# Thư mục chứa tệp tin phiên bản
+*.userprefs
+
+# Thư mục chứa các tệp tin nhân vật và nhạc
+*.pidb.meta
+*.sln
+*.suo
+*.user
+
+# Tệp tin hình ảnh tạm thời
+*.tmp
+
+# Tệp tin dịch vụ đám mây
+*.bak
+*.swp
+
+# Tệp tin thông báo Unity
+*.pdb
+
+# Thư mục chứa các tệp tin hình ảnh đã tạo
+[Dd]ata/
+
+# Các tệp tin JSON chứa thông tin bản đồ
+*.json
+
+# Các tệp tin tạm thời khác
+*.csproj
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Tệp tin tài liệu
+*.doc
+*.pdf
+*.rtf
